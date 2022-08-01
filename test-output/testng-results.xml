@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="12" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-14T18:21:06 IST" name="Loan Department" finished-at="2022-07-14T18:21:06 IST" duration-ms="191">
+    <groups>
+      <group name="smoke">
+        <method signature="day2.demo()[pri:0, instance:tests.day2@22e357dc]" name="demo" class="tests.day2"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2022-07-14T18:21:06 IST" name="Personal Loan" finished-at="2022-07-14T18:21:06 IST" duration-ms="136">
+      <class name="tests.day4">
+        <test-method signature="APIloginHomeLoan()[pri:0, instance:tests.day4@223aa2f7]" started-at="2022-07-14T18:21:06 IST" name="APIloginHomeLoan" finished-at="2022-07-14T18:21:06 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APIloginHomeLoan -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:tests.day4@223aa2f7]" started-at="2022-07-14T18:21:06 IST" name="aftermethod" finished-at="2022-07-14T18:21:06 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method signature="CarloginHomeLoan()[pri:0, instance:tests.day4@223aa2f7]" started-at="2022-07-14T18:21:06 IST" name="CarloginHomeLoan" finished-at="2022-07-14T18:21:06 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarloginHomeLoan -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:tests.day4@223aa2f7]" started-at="2022-07-14T18:21:06 IST" name="aftermethod" finished-at="2022-07-14T18:21:06 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method signature="WebloginHomeLoan()[pri:0, instance:tests.day4@223aa2f7]" started-at="2022-07-14T18:21:06 IST" name="WebloginHomeLoan" finished-at="2022-07-14T18:21:06 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebloginHomeLoan -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:tests.day4@223aa2f7]" started-at="2022-07-14T18:21:06 IST" name="aftermethod" finished-at="2022-07-14T18:21:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- tests.day4 -->
+      <class name="tests.day2">
+        <test-method is-config="true" signature="demo2()[pri:0, instance:tests.day2@22e357dc]" started-at="2022-07-14T18:21:06 IST" name="demo2" finished-at="2022-07-14T18:21:06 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo2 -->
+        <test-method signature="demo()[pri:0, instance:tests.day2@22e357dc]" started-at="2022-07-14T18:21:06 IST" name="demo" finished-at="2022-07-14T18:21:06 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- tests.day2 -->
+      <class name="tests.day1">
+        <test-method is-config="true" signature="CarAPIlogin()[pri:0, instance:tests.day1@693fe6c9]" started-at="2022-07-14T18:21:06 IST" name="CarAPIlogin" finished-at="2022-07-14T18:21:06 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarAPIlogin -->
+      </class> <!-- tests.day1 -->
+    </test> <!-- Personal Loan -->
+    <test started-at="2022-07-14T18:21:06 IST" name="Car Loan" finished-at="2022-07-14T18:21:06 IST" duration-ms="191">
+      <class name="tests.day4">
+        <test-method is-config="true" signature="beforesuit()[pri:0, instance:tests.day4@223aa2f7]" started-at="2022-07-14T18:21:06 IST" name="beforesuit" finished-at="2022-07-14T18:21:06 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuit -->
+        <test-method is-config="true" signature="Aftersuit()[pri:0, instance:tests.day4@223aa2f7]" started-at="2022-07-14T18:21:06 IST" name="Aftersuit" finished-at="2022-07-14T18:21:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftersuit -->
+      </class> <!-- tests.day4 -->
+      <class name="tests.day3">
+        <test-method is-config="true" signature="beforemethodt()[pri:0, instance:tests.day3@1e04fa0a]" started-at="2022-07-14T18:21:06 IST" name="beforemethodt" finished-at="2022-07-14T18:21:06 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethodt -->
+        <test-method signature="CarWeblogin(java.lang.String)[pri:0, instance:tests.day3@1e04fa0a]" started-at="2022-07-14T18:21:06 IST" name="CarWeblogin" finished-at="2022-07-14T18:21:06 IST" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarWeblogin -->
+        <test-method is-config="true" signature="beforemethodt()[pri:0, instance:tests.day3@1e04fa0a]" started-at="2022-07-14T18:21:06 IST" name="beforemethodt" finished-at="2022-07-14T18:21:06 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethodt -->
+        <test-method signature="mCarlogin(java.lang.String,java.lang.String)[pri:0, instance:tests.day3@1e04fa0a]" started-at="2022-07-14T18:21:06 IST" name="mCarlogin" data-provider="getdata" finished-at="2022-07-14T18:21:06 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1st usrname]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1st pwd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mCarlogin -->
+        <test-method is-config="true" signature="beforemethodt()[pri:0, instance:tests.day3@1e04fa0a]" started-at="2022-07-14T18:21:06 IST" name="beforemethodt" finished-at="2022-07-14T18:21:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethodt -->
+        <test-method signature="mCarlogin(java.lang.String,java.lang.String)[pri:0, instance:tests.day3@1e04fa0a]" started-at="2022-07-14T18:21:06 IST" name="mCarlogin" data-provider="getdata" finished-at="2022-07-14T18:21:06 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2st usrname]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2st pwd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mCarlogin -->
+        <test-method signature="mCarlogin(java.lang.String,java.lang.String)[pri:0, instance:tests.day3@1e04fa0a]" started-at="2022-07-14T18:21:06 IST" name="mCarlogin" data-provider="getdata" finished-at="2022-07-14T18:21:06 IST" duration-ms="17" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3st usrname]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3st pwd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mCarlogin -->
+        <test-method is-config="true" signature="beforemethodt()[pri:0, instance:tests.day3@1e04fa0a]" started-at="2022-07-14T18:21:06 IST" name="beforemethodt" finished-at="2022-07-14T18:21:06 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethodt -->
+        <test-method is-config="true" signature="beforemethodt()[pri:0, instance:tests.day3@1e04fa0a]" started-at="2022-07-14T18:21:06 IST" name="beforemethodt" finished-at="2022-07-14T18:21:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethodt -->
+        <test-method signature="CarAPIlogin()[pri:0, instance:tests.day3@1e04fa0a]" started-at="2022-07-14T18:21:06 IST" name="CarAPIlogin" finished-at="2022-07-14T18:21:06 IST" depends-on-methods="tests.day3.CarWeblogin" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarAPIlogin -->
+      </class> <!-- tests.day3 -->
+    </test> <!-- Car Loan -->
+  </suite> <!-- Loan Department -->
+</testng-results>
