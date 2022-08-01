@@ -12,7 +12,7 @@ public class day1 {
 	@BeforeClass
 	public void beforclass()
 	{
-		System.out.println("before class");
+		System.out.println("postjira");
 	}
 
 	
