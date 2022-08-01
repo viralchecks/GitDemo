@@ -13,6 +13,7 @@ public class day1 {
 	public void beforclass()
 	{
 		System.out.println("postjira");
+		System.out.println("postjira2");
 	}
 
 	
