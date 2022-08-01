@@ -27,6 +27,7 @@ public class day1 {
 	public void SeconTest()
 	{
 		System.out.println("Second test");
+		System.out.println("demoSecond test");
 	}
 
 	@AfterTest
