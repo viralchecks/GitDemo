@@ -34,6 +34,7 @@ public class day1 {
 	public void CarAPIlogin()
 	{
 		System.out.println("After test");
+		System.out.println("demoxAfter test");
 	}
 
 	@AfterClass
